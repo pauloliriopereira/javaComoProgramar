@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class VerificaMaiorMenor
 {
-	// mÃ©todo principal inicia a execução do programa
+	// método principal inicia a execução do programa
 	public static void main( String[] args )
 	{
 		
