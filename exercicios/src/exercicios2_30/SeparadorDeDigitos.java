@@ -1,6 +1,5 @@
 package exercicios2_30;
 
-
 //Escreva um aplicativo que lê um número consistindo em cinco dígitos do usuário, separa
 //o número em seus dígitos e imprime os dígitos separados uns dos outros por três
 //espaços cada.
